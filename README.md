@@ -34,7 +34,7 @@ PDF Upload → Document Processing → Dual Storage:
                                    └── Knowledge Graph (NetworkX)
                                             ↓
 Query Classification → Route to:
-                      ├── Graph Traversal (Entity/Content queries)
+                      ├── Graph Traversal (Entity/Content queries) + LLM
                       └── Vector Search + LLM (Semantic queries)
 ```
 
